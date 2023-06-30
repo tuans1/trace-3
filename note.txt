@@ -1,0 +1,10 @@
+- Vue Can thiet
++ Coding convention
+    - Eslint => Rule: dau cham phay, spaces ...
+    - Auto fix: eslint, pritier => command
+    - Set auto via husky => optional
+
+    - Auto checking: CI
++ Connect API (login) - Structor
++ Deployment - Manual (npm run build - Nginx/Apche2 - Host - SSH)
++ Deployment - Auto => CD => Github action => Gilab CICD = Jenkin => Circle CI
